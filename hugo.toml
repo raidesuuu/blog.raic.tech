@@ -1,0 +1,4 @@
+baseURL = 'https://blog.raic.tech'
+languageCode = 'ja-jp'
+title = '雷のブログ'
+theme = "paper"
