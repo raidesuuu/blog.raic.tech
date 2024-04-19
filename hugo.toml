@@ -1,4 +1,15 @@
 baseURL = 'https://blog.raic.tech'
-languageCode = 'ja-jp'
+languageCode = 'ja'
 title = '雷のブログ'
-theme = "paper"
+theme = 'paper'
+
+[params]
+twitter = 'raidesuuu'
+instagram = 'raisandayoo'
+github = 'raidesuuu'
+threads = 'raisandayoo'
+rss = true
+
+avatar = 'admin@uplauncher.xyz'
+name = '雷'
+bio = '学生です。ゲームが趣味です。'
