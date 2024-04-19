@@ -1,7 +1,7 @@
 +++
 title = 'ブログを変更しました！'
 date = 2024-04-19T22:35:35+09:00
-draft = true
+draft = false
 +++
 
 ## 最初に
