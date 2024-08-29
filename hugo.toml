@@ -1,5 +1,5 @@
 baseURL = 'https://blog.raic.tech'
-languageCode = "ja-jp"
+languageCode = 'ja'
 title = '雷のブログ'
 theme = 'paper'
 
