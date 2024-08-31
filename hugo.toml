@@ -10,6 +10,10 @@ github = 'raidesuuu'
 threads = 'raisandayoo'
 rss = true
 
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+
 avatar = 'admin@raic.tech'
 name = '雷'
 bio = '学生です。ゲームが趣味です。'
